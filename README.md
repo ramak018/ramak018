@@ -14,15 +14,15 @@ passion for coding and building innovative solutions.This README is my playgroun
 • **Academic Coursework:** Data Structures, DBMS, Artificial Intelligence, NLP  
 • **Interest:** Problem-Solving, Software Development, Self Improvement, Exploring New Technologies  
 
-## INTERNSHIP EXPERIENCE
+## INTERNSHIP EXPERIENCE<br>
 
 **Web Development Intern** | ***Innomatics Research Labs*** | Offline             ****July 2025– Jan 2025****
-• Completed intensive training in HTML, CSS, JavaScript,React.js, along with Python and SQL
+• Completed intensive training in HTML, CSS, JavaScript,React.js, along with Python and SQL<br>
 • Developed responsive web applications using HTML, CSS, JavaScript, and React.js, creating multiple mini
 projects with reusable components, props, state management, event handling, and optimized user interface
-design principles.
+design principles.<br>
 • Practiced JavaScript problem solving on the HackerRank platform to strengthen algorithmic thinking, logical
-reasoning, and coding efficiency.
+reasoning, and coding efficiency.<br>
 
 ## Projects:
 
