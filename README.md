@@ -16,7 +16,7 @@ passion for coding and building innovative solutions.This README is my playgroun
 
 ## INTERNSHIP EXPERIENCE<br>
 
-**Web Development Intern** | ***Innomatics Research Labs*** | Offline             ****July 2025– Jan 2025****<br><br>
+**Web Development Intern** | ***Innomatics Research Labs*** | Offline              ****July 2025 – Jan 2026****<br><br>
 • Completed intensive training in HTML, CSS, JavaScript,React.js, along with Python and SQL<br><br>
 • Developed responsive web applications using HTML, CSS, JavaScript, and React.js, creating multiple mini
 projects with reusable components, props, state management, event handling, and optimized user interface
