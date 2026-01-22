@@ -21,7 +21,7 @@ Developed an IoT-based smart parking system to optimize parking space utilizatio
 congestion. Implementedreal-time parking availability monitoring using IR sensors and Arduino.
 Focused on automation and real-time data analytics for enhanced user experience.
  
-### Real-Time One-to-One Chat Application:
+### Real-Time One-to-One Chat Application(Deployed):
 Developed a fully responsive real-time chat application using HTML,CSS, JavaScript, Firebase, and 
 Cloudinary. Implemented secure authentication, private messaging, and real-time message synchronization
 using Firebase onSnapshot. Enabled image and document uploads with Cloudinary integration.
